@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { margin: 0; font-family: ui-serif, Georgia, Cambria, "Times New Roman", "Noto Serif SC", serif; }
+button, input, a { font-family: inherit; }
